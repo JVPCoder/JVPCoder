@@ -4,7 +4,7 @@
 #### 🤖 My name is João Vitor and i'm studying about tech 🤖
 
  - 🤔 I'm studying Analysis and Systems Development on UTFPR - (Universidade Tecnológica Federal do Paraná)
- - 🌱 19 Years Old (4 of them coding)
+ - 🌱 19 Years Old (2 of them coding)
  - 📫 My objective is on Full-Stack Developer
 
 ## 🤓 Currently Learning 🤓
