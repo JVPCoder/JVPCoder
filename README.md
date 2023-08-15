@@ -1,4 +1,4 @@
-## 👋 Hi people, welcome to my GitHub profile 👋
+# 👋 Hi people, welcome to my GitHub profile 👋
 #### 🤖 My name is João Vitor and i'm studying about tech 🤖
 
  - 🤔 I'm studying Analysis and Systems Development on UTFPR - (Universidade Tecnológica Federal do Paraná)
