@@ -1,4 +1,6 @@
-### Hi there 👋
+### Hi people, welcome to my GitHub profile 👋
+# My name is João Vitor and i'm studying about tech
+
 
 <!--
 **JVPCoder/JVPCoder** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
