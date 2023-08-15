@@ -1,7 +1,5 @@
-![Matrix wallpaper gif](https://github.com/JVPCoder/JVPCoder/assets/87663301/c9a7c3ce-1b03-468f-9650-9f533326ed2b)
-
+![Matrix_Digital_rain_banner](https://github.com/JVPCoder/JVPCoder/assets/87663301/ddb7c3dd-871c-45e0-be6d-6984c94fdc79)
           
-
 ## 👋 Hi people, welcome to my GitHub profile 👋
 #### 🤖 My name is João Vitor and i'm studying about tech 🤖
 
