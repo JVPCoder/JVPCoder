@@ -1,5 +1,5 @@
 ### Hi people, welcome to my GitHub profile 👋
-# My name is João Vitor and i'm studying about tech
+#### My name is João Vitor and i'm studying about tech
 
 
 <!--
