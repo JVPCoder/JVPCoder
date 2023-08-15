@@ -5,12 +5,13 @@
  - 🌱 19 Years Old (4 of them coding)
  - 📫 My objective is on Full-Stack Developer
 
-## Currently Learning:
+## 🤓 Currently Learning 🤓
+
 <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="30" height="30" /> <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg"  width="30" height="30"/> <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="30" height="30"/><img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="30" height="30"/> <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="30" height="30"/>
            
           
 
-## Active Languages
+## ✒️ Active Languages ✒️
 
 <div>
 <a href="https://github.com/JVPCoder">
@@ -19,7 +20,7 @@
 </div>
 
 
-## Contact me:
+## 🌟 Social Medias 🌟
 
 <div>
 <a href="https://instagram.com/jvq_pires" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
