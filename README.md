@@ -5,8 +5,10 @@
  - 🌱 19 Years Old (4 of them coding)
  - 📫 My objective is on Full-Stack Developer
 
-## Currently Learning
-<img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" height="40" />
+## Currently Learning:
+<img loading= "lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="30" height="30" />
+<img loading= "lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg"  width="30" height="30"/>
+          
 
 <!--
 **JVPCoder/JVPCoder** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
