@@ -4,7 +4,7 @@
 #### 🤖 My name is João Vitor and i'm studying about coding and all tech relations 🤖
 
  - 🤔 I'm studying Analysis and Systems Development at UTFPR - (Universidade Tecnológica Federal do Paraná)
- - 🌱 20 Years Old (3 of them coding)
+ - 🌱 22 Years Old (5 of them coding)
  - 📫 My objective is on Full-Stack Developer
  - 🚀 Passionate about coding and ready to embark on my journey as a software developer in an internship environment. My curiosity and hunger for challenges drive me to create meaningful solutions.
    Proficient in Javascript, Java, HTML, CSS, and databases, I am eager to dive in, actively contribute, and learn from a talented team. Let's together build the next generation of technological innovation!
